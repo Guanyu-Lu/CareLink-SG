@@ -2,7 +2,7 @@
 
 CareLink SG is a static GitHub Pages prototype created for the **Healthcare Beyond Hospitals** design challenge. It demonstrates how a simple AI-enabled web application can support home recovery, health check-ins, medication adherence, caregiver coordination, emergency contact support, and community healthcare handoff.
 
-**Live Demo:** [https://guanyu-lu.github.io/Group5/](https://guanyu-lu.github.io/Group5/)
+**Live Demo:** [guanyu-lu.github.io/CareLink-SG/)
 
 **QR Code:**  
 ![CareLink SG Web QR Code](./Web_QR.png)
